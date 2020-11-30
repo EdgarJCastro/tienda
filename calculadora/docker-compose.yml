@@ -14,7 +14,7 @@ services:
       - suma
       - resta
     ports:
-      - "9000:90" 
+      - "5000:90" 
 
   suma:
     build: ./suma
