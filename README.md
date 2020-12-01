@@ -75,6 +75,15 @@ Julian David Rojas
 
 ![Resumen-por-capas](https://user-images.githubusercontent.com/36303156/100687926-320bd000-334f-11eb-8223-de34c65bac6f.jpg)
 
+# Uso de la aplicación
+
+![Uso-de-aplicacin](https://user-images.githubusercontent.com/36303156/100688044-70a18a80-334f-11eb-91af-3f70fb5eefb8.jpg)
+
+# Uso de infraestructura
+
+![Uso-de-infraestructura](https://user-images.githubusercontent.com/36303156/100688134-9af34800-334f-11eb-9fbf-9e9de6f15547.jpg)
+
+
 
 
 
