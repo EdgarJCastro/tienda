@@ -5,9 +5,9 @@ Tienda en linea UD
 
 # Integrantes
 
-Efren Lopez Abdenago
-Edgar Castro
-Julian David Rojas
+Efren Lopez Abdenago  20202099029
+Edgar Castro Escorcia 20202099024
+Julian David Rojas    20202099034
 
 # Arquitectura del proyecto
 
